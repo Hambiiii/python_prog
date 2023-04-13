@@ -1,0 +1,20 @@
+Ford focus  2016    300
+Mazda   2022    500
+Bugatti 2019    970 
+Toyota Cerica   1994    320 
+Pagani Zonda    2012    750
+Ford Fiesta 2013    400
+BMW M5  2020    540
+BMW X6  2020    500
+Mercedes Benz   2016    600
+Opel Astra  2010    400
+Toyota Corolla  2010    400
+Nissan Skyline  2000    320
+Nissan GTR  2018    600
+Mini Cooper 2022    400
+Peugeot 380 2018    300
+Mclaren 720s    2019    700
+Dodge Magnum    2014    670
+Laferrari   2017    780
+Ferrari SF90    2020    840
+Hyundai 2010    200    
